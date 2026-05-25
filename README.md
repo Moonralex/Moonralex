@@ -27,4 +27,4 @@ Aspiring Fachinformatiker für Systemintegration based in Germany.
 - Ukrainian / Russian (native)
 
 ## GitHub projects
-This profile contains learning projects and practical exercises related to Python, Django, Linux and IT administration.
+This profile contains or will contains learning projects and practical exercises related to Python, Django, Linux and IT administration.
